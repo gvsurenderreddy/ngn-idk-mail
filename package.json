@@ -1,0 +1,25 @@
+{
+  "name": "ngn-idk-mail",
+  "version": "1.0.0",
+  "description": "The Email IDK for NGN.",
+  "main": "lib/bootstrap.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --harmony test"
+  },
+  "repository": "",
+  "keywords": [
+    "NGN",
+    "email",
+    "mail",
+    "attachments"
+  ],
+  "author": "Corey Butler <corey@nodengn.com> (http://www.nodengn.com)",
+  "license": "GPL",
+  "readmeFilename": "README.md",
+  "dependencies": {},
+  "devDependencies": {}
+}
