@@ -1,0 +1,6 @@
+*/.git/*
+.*
+_*
+!.gitignore
+npm-debug.log
+node_modules
